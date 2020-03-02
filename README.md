@@ -1,4 +1,4 @@
-# Microverse Project Title - Final Project [Collaborative Project]
+# Rails Facebook
 Ruby on Rails
 
 ### Introduction.
@@ -17,10 +17,12 @@ Can be found on:  ( <a href="https://www.theodinproject.com/courses/ruby-on-rail
 
 ### Project specific
 
-![rails-facebook login](login.png "Rails-facebook login")
+![feed](/../screenshot/home.png?raw=true "Feed")
+
+![users page](/../screenshot/users.png?raw=true "Users")
 
 
-![rails-facebook home](home.png "Rails-facebook home")
+![edit profile](/../screenshot/edit-profile.png?raw=true "Edit profile")
 
 ###  Ruby version
 
@@ -64,8 +66,7 @@ $ git clone https://github.com/marcos-medeiros/rails-facebook.git
 $ cd rails-facebook
 $ bundle insatll
 ```
-
-`rails db:migrate`
+> Create a database using: `rails db:migrate`
 
 To start the server: `rails server`
 
